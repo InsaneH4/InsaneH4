@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS and Data Structures and Algorithms in C**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **samuelhussain@live.com**
 
