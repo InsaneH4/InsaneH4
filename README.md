@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samuelhussain@live.com**
 
-- ⚡ Fun fact **I play the bass in a metal band >:)**
+- 🎸 Fun fact **I play the bass in a metal band >:)**
 
 <p align="left">
 </p>
