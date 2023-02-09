@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneh4&label=Profile%20views&color=0e75b6&style=flat" alt="insaneh4" /> </p>
 
-- My most recent completed project [RoboPoll](https://insaneh4.github.io/robopoll/)
+- 💻 My most recent completed project [RoboPoll](https://insaneh4.github.io/robopoll/)
 
 - 😄 Pronouns: He/Him
 
