@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I play the bass in a metal band >:)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
