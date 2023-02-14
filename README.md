@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam Hussain</h1>
+<h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A beginner software engineer studying CS at UCF</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneh4&label=Profile%20views&color=0e75b6&style=flat" alt="insaneh4" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **samuelhussain@live.com**
+- 📫 How to reach me **InsaneH#8315** on discord
 
 - 🎸 Fun fact **I play the bass in a metal band >:)**
 
