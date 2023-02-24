@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **InsaneH#8315** on discord
+- 📫 Reach me at **InsaneH#8315** on discord
 
 - 🎸 Fun fact **I play the bass in a metal band >:)**
 
