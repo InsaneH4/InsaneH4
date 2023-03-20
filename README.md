@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🌱 I’m currently learning **React JS and Data Structures and Algorithms in C**
+- 🌱 I’m currently learning **Data Structures and Algorithms in C**
 
 - 💬 Ask me about **Flutter**
 
