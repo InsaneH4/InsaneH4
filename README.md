@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **InsaneH#8315** on discord
 
-- 🎸 Fun fact **I play the bass in a metal band >:)**
+- 🎸 Fun fact **I play bass in a metal band >:)**
 
 <p align="left">
 </p>
