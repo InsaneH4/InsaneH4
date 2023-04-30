@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneh4&label=Profile%20views&color=0e75b6&style=flat" alt="insaneh4" /> </p>
 
-- 💻 My most recent completed project [Stride Squad][https://github.com/InsaneH4/stride_squad]
+- 💻 My most recent completed project [Stride Squad][https://github.com/InsaneH4/stride_squad
 
 - 😄 Pronouns: He/Him
 
