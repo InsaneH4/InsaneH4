@@ -7,11 +7,13 @@
 
 - 😄 Pronouns: He/Him
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Java and Flutter**
 
-- 📫 Reach me at **InsaneH#8315** on discord
+- 📫 Reach me at **insaneh** on discord
+
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuelhussain/)
 
 - 🎸 Fun fact **I play bass in a metal band >:)**
 
