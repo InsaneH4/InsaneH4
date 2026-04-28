@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A beginner software engineer studying CS at UCF</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneh4&label=Profile%20views&color=0e75b6&style=flat" alt="insaneh4" /> </p>
 
 - 💻 My most recent completed project [St. Augustine Forts in VR]([https://github.com/InsaneH4/picturebook-gen](https://github.com/algiroux/StAugForts)) (Senior Design project)
 
@@ -19,3 +18,4 @@
 
 <p align="left">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneh4&label=Profile%20views&color=0e75b6&style=flat" alt="insaneh4" /> </p>
